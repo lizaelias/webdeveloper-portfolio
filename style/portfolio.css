@@ -105,6 +105,24 @@ nav a {
 
 
 /* main section rleted style*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.title{
+    font-weight: normal;
+}
+.info-description{
+    font-weight: bold;
+}
 
 /*  about section rleted style*/
 .about{
